@@ -1,0 +1,45 @@
+1/1/2024, 7:54:21 PM	Invalid Access Token
+1/1/2024, 7:54:33 PM	Invalid Access Token
+1/1/2024, 7:54:38 PM	Operation `users.findOne()` buffering timed out after 10000ms
+1/1/2024, 7:56:39 PM	Invalid Access Token
+1/1/2024, 7:56:46 PM	Invalid Access Token
+1/1/2024, 7:57:00 PM	Invalid Access Token
+1/1/2024, 8:09:15 PM	Invalid Access Token
+1/1/2024, 8:34:01 PM	Invalid Access Token
+1/1/2024, 8:51:27 PM	Invalid Access Token
+1/1/2024, 8:58:58 PM	Invalid Access Token
+1/1/2024, 9:03:08 PM	Invalid Access Token
+1/1/2024, 9:05:56 PM	Product Not Found
+1/1/2024, 9:06:06 PM	Product Not Found
+1/1/2024, 9:06:24 PM	Product Not Found
+1/1/2024, 9:06:29 PM	Product Not Found
+1/1/2024, 9:06:56 PM	Product Not Found
+1/1/2024, 9:08:10 PM	Cannot populate path `Category` because it is not in your schema. Set the `strictPopulate` option to false to override.
+1/1/2024, 9:11:44 PM	Invalid Access Token
+1/1/2024, 9:12:15 PM	Category validation failed: createdBy: Cast to ObjectId failed for value "false" (type boolean) at path "createdBy" because of "BSONError", description: Path `description` is required., name: Path `name` is required.
+1/1/2024, 9:13:06 PM	Category validation failed: createdBy: Cast to ObjectId failed for value "false" (type boolean) at path "createdBy" because of "BSONError", description: Path `description` is required., name: Path `name` is required.
+1/1/2024, 9:13:26 PM	Category validation failed: createdBy: Cast to ObjectId failed for value "false" (type boolean) at path "createdBy" because of "BSONError", description: Path `description` is required., name: Path `name` is required.
+1/1/2024, 9:13:32 PM	Category validation failed: createdBy: Cast to ObjectId failed for value "false" (type boolean) at path "createdBy" because of "BSONError", description: Path `description` is required., name: Path `name` is required.
+1/1/2024, 9:17:30 PM	Invalid Access Token
+1/1/2024, 9:17:37 PM	Category validation failed: createdBy: Cast to ObjectId failed for value "false" (type boolean) at path "createdBy" because of "BSONError", description: Path `description` is required., name: Path `name` is required.
+1/1/2024, 9:20:20 PM	Category Already Exists
+1/1/2024, 9:21:43 PM	Invalid Access Token
+1/1/2024, 9:22:28 PM	Category Not Found
+1/1/2024, 9:22:51 PM	Category Not Found
+1/1/2024, 9:24:56 PM	Category validation failed: createdBy: Cast to ObjectId failed for value "false" (type boolean) at path "createdBy" because of "BSONError", description: Path `description` is required., name: Path `name` is required.
+1/1/2024, 9:26:05 PM	Invalid Access Token
+1/1/2024, 9:26:12 PM	Category validation failed: createdBy: Cast to ObjectId failed for value "false" (type boolean) at path "createdBy" because of "BSONError", description: Path `description` is required., name: Path `name` is required.
+1/1/2024, 9:26:38 PM	Category validation failed: createdBy: Cast to ObjectId failed for value "false" (type boolean) at path "createdBy" because of "BSONError", description: Path `description` is required., name: Path `name` is required.
+1/1/2024, 9:26:42 PM	Category Already Exists
+1/1/2024, 9:27:05 PM	Category Already Exists
+1/1/2024, 9:27:14 PM	Category validation failed: createdBy: Cast to ObjectId failed for value "false" (type boolean) at path "createdBy" because of "BSONError", description: Path `description` is required., name: Path `name` is required.
+1/1/2024, 9:27:42 PM	Category validation failed: createdBy: Cast to ObjectId failed for value "false" (type boolean) at path "createdBy" because of "BSONError", description: Path `description` is required., name: Path `name` is required.
+1/1/2024, 9:28:14 PM	Category Already Exists
+1/1/2024, 9:30:22 PM	Category validation failed: createdBy: Cast to ObjectId failed for value "false" (type boolean) at path "createdBy" because of "BSONError", description: Path `description` is required., name: Path `name` is required.
+1/1/2024, 9:31:17 PM	Category Already Exists
+1/1/2024, 9:33:21 PM	Category validation failed: createdBy: Cast to ObjectId failed for value "false" (type boolean) at path "createdBy" because of "BSONError", description: Path `description` is required., name: Path `name` is required.
+1/1/2024, 9:34:48 PM	Invalid Access Token
+1/1/2024, 9:34:56 PM	Category Already Exists
+1/1/2024, 9:55:48 PM	This Email is Already Registered
+1/1/2024, 10:09:58 PM	This Email is Already Registered
+1/1/2024, 10:09:58 PM	Invalid Access Token
